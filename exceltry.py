@@ -31,4 +31,4 @@ def updateSell():
 
 updateBuy()
 updateSell()
-wb.save("New.xlsx")
+wb.save("Daily.xlsx")
